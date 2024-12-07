@@ -1,6 +1,9 @@
 # Live Demo
 [https://e-commerce-website-pied-nine.vercel.app/](https://e-commerce-website-pied-nine.vercel.app/)
 
+![Screenshot 2024-12-08 002457](https://github.com/user-attachments/assets/ae856e39-72e2-4acc-a30a-1bf8e162c0e9)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
